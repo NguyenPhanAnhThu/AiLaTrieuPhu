@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    background: #01053f;
+    width: 100%;
+    height: 100%;
+}
+.icon{
+    opacity: 0.6;
+    margin-top: 455px;
+    background:#000237;
+    height: 100px;
+    padding-left: 410px;
+}
+.icon p{
+    position: absolute;
+    color: white;
+    margin: 45px 0px 0px 380px;
+    text-align: center;
+    z-index: 1200;
+}
+a{
+    margin-right: 40px;
+}
+a img{
+    margin-top: 35px;
+    width: 50px;
+    height: 50px;
+}
+.aa{
+    width: 250px;
+    height: 50px;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    margin: 50px 300px;
+    text-align: center;
+}
+.item1{
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    border: solid 3px rgb(194, 135, 10);
+    background-color: #61b6e3;
+    border-bottom: none;
+    text-align: center;
+    z-index: 4;
+    margin-top: 20px;
+    border-radius: 15px 15px 0px 0px
+}
+.item1 h1{
+    color: yellow;
+    text-shadow: 0.1em 0.1em 0.2em gray;
+    font-size: 35px;
+    margin-top: 10px;
+}
+.one i{
+    position: absolute;
+    font-size: 30px;
+    border: solid 1px rgb(14, 63, 107);
+    background-color: rgb(213, 228, 241);
+    color: black;
+    border-radius: 100%;
+    padding: 8px 13px;
+    margin: 30px 0px 0px 160px;
+    z-index: 5;
+}
+.item3{
+    position: absolute;
+    z-index: 5;
+    margin-top: 130px;
+    margin-left: 20px;
+}
+.icon1 i{
+    font-size: 120px;
+    border: solid 4px rgb(71, 206, 230);
+    background-color: rgb(213, 228, 241);
+    color: black;
+    border-radius: 100%;
+    padding: 25px;
+}
+.icon2 i{
+    font-size: 30px;
+    background-color: rgb(213, 228, 241);
+    color: black;
+    border-radius: 100%;
+    padding: 10px;
+}
+.icon3 i{
+    font-size: 30px;
+    background-color: rgb(213, 228, 241);
+    color: black;
+    border-radius: 100%;
+    padding: 10px;
+} 
+.item2{
+    position: absolute;
+    width: 400px;
+    height: 220px;
+    border: solid 3px rgb(194, 135, 10);
+    background-color: #1a3694;
+    border-top: none;
+    margin-top: 180px;
+    font-size: 45px;
+    border-radius: 0px 0px 15px 15px
+}
+.item2 p{
+    color: white ;
+    font-size: 27px;
+    margin-top: 150px;
+    font-weight: 600;
+}

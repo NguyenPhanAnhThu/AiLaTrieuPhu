@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background: #01053f;
+    width: 100%;
+    height: 100%;
+}
+.icon1{
+    width: 460px;
+    height: 350px;
+    margin-left: 460px;
+}
+button{
+    background: #ffaf00;
+    padding: 10px 50px;
+    border-radius: 20px;
+    margin-left: 520px;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+.icon{
+    margin-top: 52px;
+    background:#000237;
+    height: 100px;
+    padding-left: 410px;
+}
+a{
+    margin-right: 40px;
+}
+a img{
+    margin-top: 35px;
+    width: 50px;
+    height: 50px;
+}
+.aa{
+    position: relative;
+    width: 250px;
+    height: 50px;
+    z-index: 1;
+}
+.icon p{
+    position: absolute;
+    color: white;
+    margin: 45px 0px 0px 380px;
+    text-align: center;
+    z-index: 1200;
+}
+
+
+

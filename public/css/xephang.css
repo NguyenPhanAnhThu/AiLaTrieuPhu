@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    background: #01053f;
+    width: 100%;
+    height: 100%;
+}
+.icon1{
+    width: 460px;
+    height: 350px;
+    margin-left: 460px;
+}
+.icon{
+    opacity: 0.6;
+    margin-top: 455px;
+    background:#000237;
+    height: 100px;
+    padding-left: 410px;
+}
+.icon p{
+    position: absolute;
+    color: white;
+    margin: 45px 0px 0px 380px;
+    text-align: center;
+    z-index: 1200;
+}
+a{
+    margin-right: 40px;
+}
+a img{
+    margin-top: 35px;
+    width: 50px;
+    height: 50px;
+}
+.aa{
+    width: 250px;
+    height: 50px;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    margin: 50px 300px;
+    text-align: center;
+}
+.item1{
+    position: absolute;
+    width: 450px;
+    height: 460px;
+    border: solid 3px rgb(194, 135, 10);
+    background-color: #61b6e3;
+    text-align: center;
+    border-radius: 15px;
+    
+}
+.item1 h1{
+    color: yellow;
+    text-shadow: 0.1em 0.1em 0.2em gray;
+    font-size: 30px;
+    margin-top: 10px;
+}
+span i{
+    position: absolute;
+    font-size: 25px;
+    border: solid 1px rgb(14, 63, 107);
+    background-color: rgb(213, 228, 241);
+    color: black;
+    border-radius: 100%;
+    padding: 10px 14px;
+    margin: -15px 0px 0px 210px;
+    z-index: 1000;
+}
+.item2{
+    margin-left: 5px;
+    width: 440px;
+    background-color: white;
+}
+.ul1{
+    max-width: 430px;
+    display: flex;
+    justify-items: center;
+    list-style: none;
+    background-color: wheat;
+    border-bottom: solid 1px gray;
+    margin-right: 5px;
+}
+li{
+    font-weight: 600;
+}
+.li2{
+    margin: 0px 140px 0px 20px; 
+    width: 150px;
+}
+ul{
+    margin-left: 5px;
+    max-width: 430px;
+    display: flex;
+    justify-items: center;
+    list-style: none;
+    padding: 5px;
+    background-color: white;
+    border-bottom: solid 1px gray;
+    
+}
+ul li img{
+    width: 30px;
+    height: 20px;
+}
+li i{
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.li1{
+    margin-left: 15px;
+}
+.li1 i{
+    margin-left: 18px;
+}
+
