@@ -6,7 +6,7 @@
 @section('content')
     <div class="container">
         <div class="item">
-            <span><a href="Thi.html"><i class="fas fa-times"></i></a></span>
+            <span><a href="{{url('/thi')}}"><i class="fas fa-times"></i></a></span>
             <div class="item1">
                 <h1>Thoát khỏi trò chơi</h1>
             </div>
