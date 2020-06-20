@@ -22,7 +22,7 @@
         <p>Tổng tài sản<br><span id="total_score">0</span></p>
         <a href="{{ url('tienthuong') }}"><img class="aa" src="img/AiLaTrieuPhu/frame2@2x.png" alt=""></a>
         <a id="thoat" href="javascript:void(0)"><img class="close" src="img/AiLaTrieuPhu/close.png" alt=""></a> 
-        <div class="clock">
+        <div class="clock" style="margin-left:900px">
             <div id="s_val"></div>
         </div>
     </div>
