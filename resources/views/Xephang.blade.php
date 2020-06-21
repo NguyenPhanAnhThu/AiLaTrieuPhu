@@ -6,7 +6,7 @@
 @section('content')
     <div class="container">
         <div class="item">
-            <span><a href="{{ url('/') }}"><i class="fas fa-times"></i></a></span>
+            <span><a href="{{ url('/home') }}"><i class="fas fa-times"></i></a></span>
             <div class="item1">
                 <h1>BẢNG XẾP HẠNG</h1>
                 <div class="item2">

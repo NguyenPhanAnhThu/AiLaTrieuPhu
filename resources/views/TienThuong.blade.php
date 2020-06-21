@@ -14,34 +14,34 @@
         <div class="item1">
             <h1>MỨC TIỀN THƯỞNG</h1>
             <div class="item2">
-                <p class="money1">$1,000,000 <br><span>2k</span></p>
+                <p class="money1">$1,500 <br><span>150k</span></p>
                 <ul class="money2">
-                    <li class="li2">$500,000</li>
-                    <li>1,8k</li>
+                    <li class="li2">$1,300</li>
+                    <li>130k</li>
                 </ul>
                 <ul class="money3">                        
-                    <li class="li2">$250,000</li>
-                    <li>1.6k</li>
+                    <li class="li2">$1,000</li>
+                    <li>100k</li>
                 </ul>
                 <ul class="money4">
-                    <li class="li2">$100,000</li>
-                    <li>1.4k</li>
+                    <li class="li2">$800</li>
+                    <li>80</li>
                 </ul>
                 <ul class="money5">
-                    <li class="li2" >$50,000</li>
-                    <li>1.2k</li>
+                    <li class="li2" >$600</li>
+                    <li>60k</li>
                 </ul>
                 <ul class="money6">
-                    <li class="li2">$25,000</li>
-                    <li>1k</li>
+                    <li class="li2">$400</li>
+                    <li>40k</li>
                 </ul>
                 <ul class="money7">
-                    <li class="li2">$15,000</li>
-                    <li>900</li>
+                    <li class="li2">$200</li>
+                    <li>20k</li>
                 </ul>
                 <ul class="money8">
-                    <li class="li2">$12,5</li>
-                    <li>800</li>
+                    <li class="li2">$100</li>
+                    <li>10k</li>
                 </ul>
             </div> 
         </div>
